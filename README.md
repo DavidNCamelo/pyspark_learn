@@ -1,2 +1,2 @@
 # pyspark_learn
-Try to unserstand pyspark environment
+Trying to understand pyspark environment. This is done by ubuntu wsl
